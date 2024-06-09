@@ -1,8 +1,8 @@
 - ## Bem vindos ao meu perfil ✨
   Sou um estudante de programação com muita curiosidade.
   
-  Ainda não tenho experiência profissional mas faço uns html e css artezanais. Estudo por algumas plataformas digitais como Alura ,youtube e Udemy. 👀
-  Tenho interesse de algum dia trabalhar como full full stack developer mas estou focando no front-end que é a minha base de estudo.🌱
+  Ainda não tenho experiência profissional mas faço uns html e css artezanais. Estudo por algumas plataformas digitais como Alura, youtube e Udemy. 👀
+  Tenho interesse de algum dia trabalhar como full stack developer mas estou focando no front-end que é a minha base de estudo.🌱
   
   Atualmente estudando JavaScript e reforçando meu conhecimento em CSS e HTML.
   
