@@ -1,10 +1,10 @@
 - ## Bem vindos ao meu perfil ✨
   Sou um estudante de programação com muita curiosidade.
   
-  Ainda não tenho experiência profissional mas faço uns html e css artezanais. Estudo por algumas plataformas digitais como Alura, youtube e Udemy. 👀
-  Tenho interesse de algum dia trabalhar como full stack developer mas estou focando no front-end que é a minha base de estudo.🌱
+  Ainda não tenho experiência profissional mas faço uns html e css artezanais. Hoje sou aluno de desenvolvimento de sistemas pela Firjan Senai Sesi.Estudo também por algumas plataformas digitais como Alura, youtube e Udemy. 👀
+  Tenho interesse de algum dia trabalhar como full stack developer mas estou focando no back-end, porém, tenho projetos prontos e em andamento no front-end, fique a vontade para dar uma olhada.🌱
   
-  Atualmente estudando JavaScript e reforçando meu conhecimento em CSS e HTML.
+  Atualmente estudando JavaScript, Java e reforçando meu conhecimento em CSS e HTML.
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
